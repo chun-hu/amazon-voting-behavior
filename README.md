@@ -1,6 +1,6 @@
 
 # Amazon Voting Behaviors Reveal Social Conformity
-      MACS 30123 (Spring 2020) Large-Scale Computing for the Social Sciences Final Project
+MACS 30123 (Spring 2020) Large-Scale Computing for the Social Sciences Final Project
 
 ## Social Science Background
             The emergence of customer review sites encourages the exchange of ideas and the expression of opinions. The reviews of others become an increasingly important factor in our decision-making processes. Hence, understanding how these reviews are received and evaluated becomes essential to businesses and online platforms. Since reviews are enormous and vary largely in quality, it is important to understand the helpfulness of reviews so that to improve our efficiency and experience. In this project, we intend to develop a framework to understand how opinions are evaluated in online communities.
